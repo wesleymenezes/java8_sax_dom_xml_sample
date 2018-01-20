@@ -1,0 +1,7 @@
+<nota>
+	<emitente_cnpj>98765432101234</emitente_cnpj>
+	<numero>10</numero>
+	<data_emissao>2013-02-25</data_emissao>
+	<codigo_servico>1003</codigo_servico>
+	<valor_total>10.00</valor_total>
+</nota>

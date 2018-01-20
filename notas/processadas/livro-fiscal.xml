@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<livro_fiscal>
+    <movimento>
+        <emitentes>
+            <emitente>01234567890123</emitente>
+            <valor_arrecadado>50.0</valor_arrecadado>
+        </emitentes>
+        <emitentes>
+            <emitente>98765432101234</emitente>
+            <valor_arrecadado>49.8824</valor_arrecadado>
+        </emitentes>
+        <mes>2</mes>
+    </movimento>
+    <movimento>
+        <emitentes>
+            <emitente>01234567890123</emitente>
+            <valor_arrecadado>225.0</valor_arrecadado>
+        </emitentes>
+        <mes>3</mes>
+    </movimento>
+</livro_fiscal>
